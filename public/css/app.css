@@ -127,6 +127,9 @@ li {
 .card {
   margin-right: 80px;
 }
+.card img {
+  object-fit: cover;
+}
 
 .card-2 {
   margin-right: 70px;
